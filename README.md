@@ -49,4 +49,3 @@ ReadCycle es una plataforma para el intercambio de libros usados, diseñada para
 
 - Jeaneth Sanchez ->[**https://www.linkedin.com/in/jeaneth-sanchez/**](https://www.linkedin.com/in/jeaneth-sanchez/)
 - Nadia Lago Sáez ->[**https://www.linkedin.com/in/nadia-lago-saez/**](https://www.linkedin.com/in/nadia-lago-saez/)
-- Alexandra Lopez Garrido ->[**https://www.linkedin.com/in/alexandra-lopez-garrido**](https://www.linkedin.com/in/alexandra-lopez-garrido)
