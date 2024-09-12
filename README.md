@@ -45,9 +45,11 @@ ReadCycle es una plataforma para el intercambio de libros usados, diseñada para
 * Se deberia abrir automáticamente [**http://localhost:5173**](http://localhost:5173/) en tu navegador y veras la app 🚀
 
 
+
 ## 👓 Vista previa
 
-https://nadialagosaez.github.io/proyectoApi/
+- https://nadialagosaez.github.io/proyectoApi/
+
 
 
 ## 🧞 Quienes somos?
