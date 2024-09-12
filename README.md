@@ -45,15 +45,17 @@ ReadCycle es una plataforma para el intercambio de libros usados, diseñada para
 * Se deberia abrir automáticamente [**http://localhost:5173**](http://localhost:5173/) en tu navegador y veras la app 🚀
 
 
-
-## 👓 Vista previa
-
-- https://nadialagosaez.github.io/proyectoApi/
-
-
-
 ## 🧞 Quienes somos?
 
+- Nadia Lago Sáez ->[**https://www.linkedin.com/in/nadia-lago-saez/**](https://www.linkedin.com/in/nadialagosaez/)
 - Jeaneth Sanchez ->[**https://www.linkedin.com/in/jeaneth-sanchez/**](https://www.linkedin.com/in/jeaneth-sanchez/)
-- Nadia Lago Sáez ->[**https://www.linkedin.com/in/nadia-lago-saez/**](https://www.linkedin.com/in/nadia-lago-saez/)
 - Alexandra Lopez Garrido ->[**https://www.linkedin.com/in/alexandra-lopez-garrido**](https://www.linkedin.com/in/alexandra-lopez-garrido)
+
+## 👓 Vista previa
+<img width="1019" alt="ReadCycle" src="https://github.com/user-attachments/assets/0d33d2c1-7013-4647-ab75-c5dceacda6d6">
+
+
+
+
+
+
